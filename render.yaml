@@ -1,5 +1,5 @@
 databases:
-  - name: budget_app
+  - name: budget_app_ror
     databaseName: budget_app
     user: budget_app_user
     plan: free

@@ -65,6 +65,9 @@
 
 ### Key Features <a name="live-demo"></a>
 
+<a href="https://budget-app-ror2.onrender.com/">Live Demo</a>
+<a href="https://www.loom.com/share/69713d0147f5417f8027599b8a2e802f">Video Presentation</a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

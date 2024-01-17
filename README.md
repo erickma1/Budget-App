@@ -160,6 +160,8 @@ If you like this project, kindly leave a comment below and share it with other w
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella). The [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/) of the design 
+
 I would like to thank microverse for the immense support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -65,6 +65,9 @@
 
 ### Key Features <a name="live-demo"></a>
 
+<a href="https://budget-app-ror2.onrender.com/">Live Demo</a>
+<a href="https://www.loom.com/share/69713d0147f5417f8027599b8a2e802f">Video Presentation</a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,6 +135,12 @@ it will run the the server on localhost:3000
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- **[Add UX improvements: include transitions and/or animations]**
+- **[Add a desktop design for the webapp]**
+- **[Implement the left side menu to improve the navigability of the app]**
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,6 +165,8 @@ If you like this project, kindly leave a comment below and share it with other w
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella). The [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/) of the design 
 
 I would like to thank microverse for the immense support.
 

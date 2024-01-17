@@ -135,6 +135,12 @@ it will run the the server on localhost:3000
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+- **[Add UX improvements: include transitions and/or animations]**
+- **[Add a desktop design for the webapp]**
+- **[Implement the left side menu to improve the navigability of the app]**
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
